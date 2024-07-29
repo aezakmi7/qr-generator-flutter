@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
         title: const Text('QR Code Generator'),
       ),
       body: Center(
-        child: Text('QR Code Generator'),
+        child: Text('Hello world'),
       ),
     );
   }
