@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:qr_generator_flutter/screens/home_screen.dart';
 import 'package:qr_generator_flutter/screens/welcome_screen.dart';
 
 void main() {
